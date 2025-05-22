@@ -1,0 +1,1279 @@
+[Root]
+Most Recent Package=Standard Setup Package Final
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\0Jobs\Bathtub\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+bathtub.CHI=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\plugin.ocx=
+C:\WINDOWS\system32\FM20.DLL=
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\0jobs\bathtub\help\bathtub.chm=
+c:\0jobs\bathtub\default.btb=
+c:\0jobs\bathtub\bath.xla=
+c:\0jobs\bathtub\cases\beaver.btb=
+c:\0jobs\bathtub\cases\stalbans.btb=
+c:\0jobs\bathtub\cases\memphremagog.btb=
+c:\0jobs\bathtub\cases\keystone.btb=
+c:\0jobs\bathtub\cases\champlain.btb=
+C:\0Jobs\Bathtub\CONVERT.EXE=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\0Jobs\Bathtub\bath.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\plugin.ocx=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\0Jobs\Bathtub\Help\bathtub.chm=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\0Jobs\Bathtub\default.btb=Yes
+C:\0Jobs\Bathtub\bath.xla=Yes
+C:\0Jobs\Bathtub\Cases\Beaver.btb=Yes
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=Yes
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=Yes
+C:\0Jobs\Bathtub\Cases\Keystone.btb=Yes
+C:\0Jobs\Bathtub\Cases\Champlain.btb=Yes
+C:\0Jobs\Bathtub\CONVERT.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\0Jobs\Bathtub\bath.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\plugin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\0Jobs\Bathtub\Help\bathtub.chm=$(AppPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\0Jobs\Bathtub\default.btb=$(AppPath)
+C:\0Jobs\Bathtub\bath.xla=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Beaver.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Keystone.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Champlain.btb=$(AppPath)
+C:\0Jobs\Bathtub\CONVERT.EXE=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\0Jobs\Bathtub\bath.exe=No
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\0Jobs\Bathtub\Help\bathtub.chm=No
+C:\0Jobs\Bathtub\default.btb=No
+C:\0Jobs\Bathtub\bath.xla=No
+C:\0Jobs\Bathtub\Cases\Beaver.btb=No
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=No
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=No
+C:\0Jobs\Bathtub\Cases\Keystone.btb=No
+C:\0Jobs\Bathtub\Cases\Champlain.btb=No
+C:\0Jobs\Bathtub\CONVERT.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Bathtub Version 6.0
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\0Jobs\Bathtub\Package
+ProjectFolder=C:\0Jobs\Bathtub
+ServerSideCab=
+File1=C:\0Jobs\Bathtub\Package\setup.exe
+File2=C:\0Jobs\Bathtub\Package\Setup.Lst
+File3=C:\0Jobs\Bathtub\Package\bath.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Bathtub Version 6.0
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Bathtub Version 6.0]
+Icon1=bath.exe
+Title1=Bathtub Version 6.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\0Jobs\Bathtub\Package (2)
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+bathtub.CHI=
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\system32\plugin.ocx=
+C:\WINDOWS\system32\FM20.DLL=
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 2|Files Added]
+C:\0Jobs\Bathtub\CONVERT.EXE=
+C:\0Jobs\Bathtub\bath.xla=
+C:\0Jobs\Bathtub\Cases\Beaver.btb=
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=
+C:\0Jobs\Bathtub\Cases\Keystone.btb=
+C:\0Jobs\Bathtub\Cases\Champlain.btb=
+C:\0Jobs\Bathtub\Cases\Case5.btb=
+C:\0Jobs\Bathtub\Cases\Case4.btb=
+C:\0Jobs\Bathtub\Cases\Case3.btb=
+C:\0Jobs\Bathtub\Cases\Case2.btb=
+C:\0Jobs\Bathtub\Cases\Case1.btb=
+C:\0Jobs\Bathtub\Help\bathtub.chm=
+
+[Package|Standard Setup Package 2|Files Removed]
+c:\program files\microsoft office\office10\excel.exe=
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\0Jobs\Bathtub\bath.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\plugin.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\0Jobs\Bathtub\CONVERT.EXE=Yes
+C:\0Jobs\Bathtub\bath.xla=Yes
+C:\0Jobs\Bathtub\Cases\Beaver.btb=Yes
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=Yes
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=Yes
+C:\0Jobs\Bathtub\Cases\Keystone.btb=Yes
+C:\0Jobs\Bathtub\Cases\Champlain.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case5.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case4.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case3.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case2.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case1.btb=Yes
+C:\0Jobs\Bathtub\Help\bathtub.chm=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+C:\0Jobs\Bathtub\bath.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\plugin.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\0Jobs\Bathtub\CONVERT.EXE=$(AppPath)
+C:\0Jobs\Bathtub\bath.xla=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Beaver.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Keystone.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Champlain.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case5.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case4.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case3.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case2.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case1.btb=$(AppPath)
+C:\0Jobs\Bathtub\Help\bathtub.chm=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+C:\0Jobs\Bathtub\bath.exe=No
+C:\0Jobs\Bathtub\CONVERT.EXE=No
+C:\0Jobs\Bathtub\bath.xla=No
+C:\0Jobs\Bathtub\Cases\Beaver.btb=No
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=No
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=No
+C:\0Jobs\Bathtub\Cases\Keystone.btb=No
+C:\0Jobs\Bathtub\Cases\Champlain.btb=No
+C:\0Jobs\Bathtub\Cases\Case5.btb=No
+C:\0Jobs\Bathtub\Cases\Case4.btb=No
+C:\0Jobs\Bathtub\Cases\Case3.btb=No
+C:\0Jobs\Bathtub\Cases\Case2.btb=No
+C:\0Jobs\Bathtub\Cases\Case1.btb=No
+C:\0Jobs\Bathtub\Help\bathtub.chm=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=Bathtub Version 6.0
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=Bathtub Version 6.0
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|Bathtub Version 6.0]
+Icon1=bath.exe
+Title1=Bathtub Version 6.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=C:\0Jobs\Bathtub\Package (2)
+ProjectFolder=C:\0Jobs\Bathtub
+ServerSideCab=
+File1=C:\0Jobs\Bathtub\Package (2)\setup.exe
+File2=C:\0Jobs\Bathtub\Package (2)\Setup.Lst
+File3=C:\0Jobs\Bathtub\Package (2)\bath.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\0Jobs\Bathtub
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+bathtub.CHI=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINDOWS\system32\plugin.ocx=
+C:\WINDOWS\system32\FM20.DLL=
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Dep File 1|Files Added]
+c:\0jobs\bathtub\help\bathtub.chm=
+c:\0jobs\bathtub\default.btb=
+c:\0jobs\bathtub\bath.xla=
+c:\0jobs\bathtub\cases\beaver.btb=
+c:\0jobs\bathtub\cases\stalbans.btb=
+c:\0jobs\bathtub\cases\memphremagog.btb=
+c:\0jobs\bathtub\cases\keystone.btb=
+c:\0jobs\bathtub\cases\champlain.btb=
+c:\0jobs\bathtub\convert.exe=
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\0Jobs\Bathtub\bath.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\plugin.ocx=Yes
+C:\0Jobs\Bathtub\Help\bathtub.chm=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\0Jobs\Bathtub\default.btb=Yes
+C:\0Jobs\Bathtub\bath.xla=Yes
+C:\0Jobs\Bathtub\Cases\Beaver.btb=Yes
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=Yes
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=Yes
+C:\0Jobs\Bathtub\Cases\Keystone.btb=Yes
+C:\0Jobs\Bathtub\Cases\Champlain.btb=Yes
+C:\0Jobs\Bathtub\CONVERT.EXE=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+C:\0Jobs\Bathtub\bath.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\plugin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\0Jobs\Bathtub\Help\bathtub.chm=$(AppPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\0Jobs\Bathtub\default.btb=$(AppPath)
+C:\0Jobs\Bathtub\bath.xla=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Beaver.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Keystone.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Champlain.btb=$(AppPath)
+C:\0Jobs\Bathtub\CONVERT.EXE=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+C:\0Jobs\Bathtub\bath.exe=No
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\0Jobs\Bathtub\Help\bathtub.chm=No
+C:\0Jobs\Bathtub\default.btb=No
+C:\0Jobs\Bathtub\bath.xla=No
+C:\0Jobs\Bathtub\Cases\Beaver.btb=No
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=No
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=No
+C:\0Jobs\Bathtub\Cases\Keystone.btb=No
+C:\0Jobs\Bathtub\Cases\Champlain.btb=No
+C:\0Jobs\Bathtub\CONVERT.EXE=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=Bathtub Version 6.0
+
+[Package|Dep File 1|IconGroups]
+Group0=Bathtub Version 6.0
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Dep File 1|Bathtub Version 6.0]
+Icon1=bath.exe
+Title1=Bathtub Version 6.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=bath.CAB
+DepCabRun=bath.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\0Jobs\Bathtub
+ProjectFolder=C:\0Jobs\Bathtub
+ServerSideCab=
+File1=C:\0Jobs\Bathtub\bath.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\0Jobs\Bathtub\Package (3)
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+bathtub.CHI=
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+C:\WINDOWS\system32\plugin.ocx=
+C:\WINDOWS\system32\FM20.DLL=
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 3|Files Added]
+c:\0jobs\bathtub\convert.exe=
+c:\0jobs\bathtub\cases\beaver.btb=
+c:\0jobs\bathtub\cases\stalbans.btb=
+c:\0jobs\bathtub\cases\memphremagog.btb=
+c:\0jobs\bathtub\cases\keystone.btb=
+c:\0jobs\bathtub\cases\champlain.btb=
+c:\0jobs\bathtub\cases\case5.btb=
+c:\0jobs\bathtub\cases\case4.btb=
+c:\0jobs\bathtub\cases\case3.btb=
+c:\0jobs\bathtub\cases\case2.btb=
+c:\0jobs\bathtub\cases\case1.btb=
+c:\0jobs\bathtub\help\bathtub.chm=
+c:\0jobs\bathtub\default.btb=
+
+[Package|Standard Setup Package 3|Files Removed]
+c:\program files\microsoft office\office10\excel.exe=
+
+[Package|Standard Setup Package 3|Files In Project]
+C:\0Jobs\Bathtub\bath.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\0Jobs\Bathtub\CONVERT.EXE=Yes
+C:\0Jobs\Bathtub\Cases\Beaver.btb=Yes
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=Yes
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=Yes
+C:\0Jobs\Bathtub\Cases\Keystone.btb=Yes
+C:\0Jobs\Bathtub\Cases\Champlain.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case5.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case4.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case3.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case2.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case1.btb=Yes
+C:\0Jobs\Bathtub\Help\bathtub.chm=Yes
+C:\0Jobs\Bathtub\default.btb=Yes
+C:\WINDOWS\system32\plugin.ocx=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+C:\0Jobs\Bathtub\bath.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\plugin.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\0Jobs\Bathtub\CONVERT.EXE=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Beaver.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Keystone.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Champlain.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case5.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case4.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case3.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case2.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case1.btb=$(AppPath)
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\0Jobs\Bathtub\Help\bathtub.chm=$(AppPath)
+C:\0Jobs\Bathtub\default.btb=$(AppPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+C:\0Jobs\Bathtub\bath.exe=No
+C:\0Jobs\Bathtub\CONVERT.EXE=No
+C:\0Jobs\Bathtub\Cases\Beaver.btb=No
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=No
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=No
+C:\0Jobs\Bathtub\Cases\Keystone.btb=No
+C:\0Jobs\Bathtub\Cases\Champlain.btb=No
+C:\0Jobs\Bathtub\Cases\Case5.btb=No
+C:\0Jobs\Bathtub\Cases\Case4.btb=No
+C:\0Jobs\Bathtub\Cases\Case3.btb=No
+C:\0Jobs\Bathtub\Cases\Case2.btb=No
+C:\0Jobs\Bathtub\Cases\Case1.btb=No
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\0Jobs\Bathtub\Help\bathtub.chm=No
+C:\0Jobs\Bathtub\default.btb=No
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=
+Title=Bathtub Version 6.0
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=C:\0Jobs\Bathtub\Package (3)
+ProjectFolder=C:\0Jobs\Bathtub
+ServerSideCab=
+File1=C:\0Jobs\Bathtub\Package (3)\setup.exe
+File2=C:\0Jobs\Bathtub\Package (3)\Setup.Lst
+File3=C:\0Jobs\Bathtub\Package (3)\bath.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=Bathtub Version 6.0
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|Bathtub Version 6.0]
+Icon1=bath.exe
+Title1=Bathtub Version 6.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standard Setup Package 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\0Jobs\Bathtub\Package (2)
+
+[Package|Standard Setup Package 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 4|Files Found]
+
+[Package|Standard Setup Package 4|Files Released]
+bathtub.CHI=
+
+[Package|Standard Setup Package 4|Missing Dependency Information]
+C:\WINDOWS\system32\FM20.DLL=
+C:\WINDOWS\system32\plugin.ocx=
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+
+[Package|Standard Setup Package 4|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 4|Files Added]
+C:\0Jobs\Bathtub\Help\bathtub.chm=
+C:\0Jobs\Bathtub\Cases\Beaver.btb=
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=
+C:\0Jobs\Bathtub\Cases\Keystone.btb=
+C:\0Jobs\Bathtub\Cases\Champlain.btb=
+C:\0Jobs\Bathtub\Cases\Case5.btb=
+C:\0Jobs\Bathtub\Cases\Case4.btb=
+C:\0Jobs\Bathtub\Cases\Case3.btb=
+C:\0Jobs\Bathtub\Cases\Case2.btb=
+C:\0Jobs\Bathtub\Cases\Case1.btb=
+C:\0Jobs\Bathtub\default.btb=
+C:\0Jobs\Bathtub\CONVERT.EXE=
+
+[Package|Standard Setup Package 4|Files Removed]
+c:\program files\microsoft office\office10\excel.exe=
+
+[Package|Standard Setup Package 4|Files In Project]
+C:\0Jobs\Bathtub\bath.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\WINDOWS\system32\plugin.ocx=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\0Jobs\Bathtub\Help\bathtub.chm=Yes
+C:\0Jobs\Bathtub\Cases\Beaver.btb=Yes
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=Yes
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=Yes
+C:\0Jobs\Bathtub\Cases\Keystone.btb=Yes
+C:\0Jobs\Bathtub\Cases\Champlain.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case5.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case4.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case3.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case2.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case1.btb=Yes
+C:\0Jobs\Bathtub\default.btb=Yes
+C:\0Jobs\Bathtub\CONVERT.EXE=Yes
+
+[Package|Standard Setup Package 4|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 4|Install Locations]
+C:\0Jobs\Bathtub\bath.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\plugin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\0Jobs\Bathtub\Help\bathtub.chm=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Beaver.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Keystone.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Champlain.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case5.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case4.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case3.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case2.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case1.btb=$(AppPath)
+C:\0Jobs\Bathtub\default.btb=$(AppPath)
+C:\0Jobs\Bathtub\CONVERT.EXE=$(AppPath)
+
+[Package|Standard Setup Package 4|Configure Shared Files]
+Applicable=Yes
+C:\0Jobs\Bathtub\bath.exe=No
+C:\0Jobs\Bathtub\Help\bathtub.chm=No
+C:\0Jobs\Bathtub\Cases\Beaver.btb=No
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=No
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=No
+C:\0Jobs\Bathtub\Cases\Keystone.btb=No
+C:\0Jobs\Bathtub\Cases\Champlain.btb=No
+C:\0Jobs\Bathtub\Cases\Case5.btb=No
+C:\0Jobs\Bathtub\Cases\Case4.btb=No
+C:\0Jobs\Bathtub\Cases\Case3.btb=No
+C:\0Jobs\Bathtub\Cases\Case2.btb=No
+C:\0Jobs\Bathtub\Cases\Case1.btb=No
+C:\0Jobs\Bathtub\default.btb=No
+C:\0Jobs\Bathtub\CONVERT.EXE=No
+
+[Package|Standard Setup Package 4|Distribution]
+Type=single
+Size=
+Title=Bathtub Version 6.0
+
+[Package|Standard Setup Package 4|IconGroups]
+Group0=Bathtub Version 6.0
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 4|Bathtub Version 6.0]
+Icon1=bath.exe
+Title1=Bathtub Version 6.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 4|Package]
+PackageFolder=C:\0Jobs\Bathtub\Package (2)
+ProjectFolder=C:\0Jobs\Bathtub
+ServerSideCab=
+File1=C:\0Jobs\Bathtub\Package (2)\setup.exe
+File2=C:\0Jobs\Bathtub\Package (2)\Setup.Lst
+File3=C:\0Jobs\Bathtub\Package (2)\bath.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\0Jobs\Bathtub\Package
+
+[Package|Standard Setup Package|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package|Files Found]
+
+[Package|Standard Setup Package|Files Released]
+bathtub.CHI=
+
+[Package|Standard Setup Package|Missing Dependency Information]
+C:\WINDOWS\system32\FM20.DLL=
+C:\WINDOWS\system32\plugin.ocx=
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+C:\WINDOWS\system32\EXCEL9.OLB=
+
+[Package|Standard Setup Package|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package|Files Added]
+c:\0jobs\bathtub\convert.exe=
+c:\0jobs\bathtub\help\bathtub.chm=
+c:\0jobs\bathtub\cases\beaver.btb=
+c:\0jobs\bathtub\cases\stalbans.btb=
+c:\0jobs\bathtub\cases\memphremagog.btb=
+c:\0jobs\bathtub\cases\keystone.btb=
+c:\0jobs\bathtub\cases\champlain.btb=
+c:\0jobs\bathtub\cases\case5.btb=
+c:\0jobs\bathtub\cases\case4.btb=
+c:\0jobs\bathtub\cases\case3.btb=
+c:\0jobs\bathtub\cases\case2.btb=
+c:\0jobs\bathtub\cases\case1.btb=
+c:\0jobs\bathtub\default.btb=
+c:\0jobs\bathtub\bath.xla=
+C:\0Jobs\Bathtub\default_backup.btb=
+
+[Package|Standard Setup Package|Files Removed]
+c:\program files\microsoft office\office10\excel.exe=
+c:\windows\system32\excel9.olb=
+
+[Package|Standard Setup Package|Files In Project]
+C:\0Jobs\Bathtub\bath.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\0Jobs\Bathtub\CONVERT.EXE=Yes
+C:\0Jobs\Bathtub\bathtub.chm=Yes
+C:\WINDOWS\system32\EXCEL9.OLB=No
+C:\0Jobs\Bathtub\bath.xla=Yes
+C:\0Jobs\Bathtub\default.btb=Yes
+C:\0Jobs\Bathtub\Cases\Beaver.btb=Yes
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=Yes
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=Yes
+C:\0Jobs\Bathtub\Cases\Keystone.btb=Yes
+C:\0Jobs\Bathtub\Cases\Champlain.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case5.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case4.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case3.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case2.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case1.btb=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\0Jobs\Bathtub\default_backup.btb=Yes
+
+[Package|Standard Setup Package|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package|Install Locations]
+C:\0Jobs\Bathtub\bath.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\plugin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\0Jobs\Bathtub\CONVERT.EXE=$(AppPath)
+C:\0Jobs\Bathtub\Help\bathtub.chm=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Beaver.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Keystone.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Champlain.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case5.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case4.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case3.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case2.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case1.btb=$(AppPath)
+C:\0Jobs\Bathtub\default.btb=$(AppPath)
+C:\0Jobs\Bathtub\bath.xla=$(AppPath)
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\0Jobs\Bathtub\bathtub.chm=$(AppPath)
+C:\WINDOWS\system32\EXCEL9.OLB=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\0Jobs\Bathtub\default_backup.btb=$(AppPath)
+
+[Package|Standard Setup Package|Configure Shared Files]
+Applicable=Yes
+C:\0Jobs\Bathtub\bath.exe=No
+C:\0Jobs\Bathtub\CONVERT.EXE=No
+C:\0Jobs\Bathtub\Help\bathtub.chm=No
+C:\0Jobs\Bathtub\Cases\Beaver.btb=No
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=No
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=No
+C:\0Jobs\Bathtub\Cases\Keystone.btb=No
+C:\0Jobs\Bathtub\Cases\Champlain.btb=No
+C:\0Jobs\Bathtub\Cases\Case5.btb=No
+C:\0Jobs\Bathtub\Cases\Case4.btb=No
+C:\0Jobs\Bathtub\Cases\Case3.btb=No
+C:\0Jobs\Bathtub\Cases\Case2.btb=No
+C:\0Jobs\Bathtub\Cases\Case1.btb=No
+C:\0Jobs\Bathtub\default.btb=No
+C:\0Jobs\Bathtub\bath.xla=No
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\0Jobs\Bathtub\bathtub.chm=No
+C:\0Jobs\Bathtub\default_backup.btb=No
+
+[Package|Standard Setup Package|Distribution]
+Type=single
+Size=
+Title=Bathtub Version 6.0
+
+[Package|Standard Setup Package|Package]
+PackageFolder=C:\0Jobs\Bathtub\Package
+ProjectFolder=C:\0Jobs\Bathtub
+ServerSideCab=
+File1=C:\0Jobs\Bathtub\Package\setup.exe
+File2=C:\0Jobs\Bathtub\Package\Setup.Lst
+File3=C:\0Jobs\Bathtub\Package\bath.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package|IconGroups]
+Group0=Bathtub Version 6.0
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package|Bathtub Version 6.0]
+Icon1=bath.exe
+Title1=Bathtub Version 6.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standard Setup Package Final|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\0Jobs\Bathtub\Setup
+
+[Package|Standard Setup Package Final|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package Final|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package Final|Files Found]
+
+[Package|Standard Setup Package Final|Files Released]
+bathtub.CHI=
+readme.pdf=
+
+[Package|Standard Setup Package Final|Missing Dependency Information]
+C:\WINDOWS\system32\FM20.DLL=
+C:\WINDOWS\system32\EXCEL9.OLB=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\0Jobs\Bathtub\EXCEL9.OLB=
+
+[Package|Standard Setup Package Final|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package Final|Files Added]
+c:\0jobs\bathtub\default.btb=
+c:\0jobs\bathtub\default_backup.btb=
+c:\0jobs\bathtub\bath.xla=
+c:\0jobs\bathtub\cases\beaver.btb=
+c:\0jobs\bathtub\cases\stalbans.btb=
+c:\0jobs\bathtub\cases\memphremagog.btb=
+c:\0jobs\bathtub\cases\keystone.btb=
+c:\0jobs\bathtub\cases\champlain.btb=
+c:\0jobs\bathtub\cases\case5.btb=
+c:\0jobs\bathtub\cases\case4.btb=
+c:\0jobs\bathtub\cases\case3.btb=
+c:\0jobs\bathtub\cases\case2.btb=
+c:\0jobs\bathtub\cases\case1.btb=
+c:\0jobs\bathtub\convert.exe=
+readme.pdf=
+
+[Package|Standard Setup Package Final|Files Removed]
+
+[Package|Standard Setup Package Final|Files In Project]
+C:\0Jobs\Bathtub\bath.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\0Jobs\Bathtub\bathtub.chm=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\0Jobs\Bathtub\default.btb=Yes
+C:\0Jobs\Bathtub\default_backup.btb=Yes
+C:\0Jobs\Bathtub\bath.xla=Yes
+C:\0Jobs\Bathtub\Cases\Beaver.btb=Yes
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=Yes
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=Yes
+C:\0Jobs\Bathtub\Cases\Keystone.btb=Yes
+C:\0Jobs\Bathtub\Cases\Champlain.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case5.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case4.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case3.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case2.btb=Yes
+C:\0Jobs\Bathtub\Cases\Case1.btb=Yes
+C:\0Jobs\Bathtub\CONVERT.EXE=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\0Jobs\Bathtub\EXCEL9.OLB=Yes
+C:\WINDOWS\SYSTEM32\hh.exe=Yes
+
+[Package|Standard Setup Package Final|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package Final|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package Final|Install Locations]
+C:\0Jobs\Bathtub\bath.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\0Jobs\Bathtub\bathtub.chm=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\0Jobs\Bathtub\default.btb=$(AppPath)
+C:\0Jobs\Bathtub\default_backup.btb=$(AppPath)
+C:\0Jobs\Bathtub\bath.xla=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Beaver.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Keystone.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Champlain.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case5.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case4.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case3.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case2.btb=$(AppPath)
+C:\0Jobs\Bathtub\Cases\Case1.btb=$(AppPath)
+C:\0Jobs\Bathtub\CONVERT.EXE=$(AppPath)
+C:\WINDOWS\system32\EXCEL9.OLB=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\0Jobs\Bathtub\readme.pdf=$(AppPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\0Jobs\Bathtub\EXCEL9.OLB=$(WinSysPath)
+
+[Package|Standard Setup Package Final|Configure Shared Files]
+Applicable=Yes
+C:\0Jobs\Bathtub\bath.exe=No
+C:\0Jobs\Bathtub\bathtub.chm=No
+C:\0Jobs\Bathtub\default.btb=No
+C:\0Jobs\Bathtub\default_backup.btb=No
+C:\0Jobs\Bathtub\bath.xla=No
+C:\0Jobs\Bathtub\Cases\Beaver.btb=No
+C:\0Jobs\Bathtub\Cases\StAlbans.btb=No
+C:\0Jobs\Bathtub\Cases\Memphremagog.btb=No
+C:\0Jobs\Bathtub\Cases\Keystone.btb=No
+C:\0Jobs\Bathtub\Cases\Champlain.btb=No
+C:\0Jobs\Bathtub\Cases\Case5.btb=No
+C:\0Jobs\Bathtub\Cases\Case4.btb=No
+C:\0Jobs\Bathtub\Cases\Case3.btb=No
+C:\0Jobs\Bathtub\Cases\Case2.btb=No
+C:\0Jobs\Bathtub\Cases\Case1.btb=No
+C:\0Jobs\Bathtub\CONVERT.EXE=No
+C:\0Jobs\Bathtub\readme.pdf=No
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=No
+
+[Package|Standard Setup Package Final|Distribution]
+Type=single
+Size=
+Title=Bathtub
+
+[Package|Standard Setup Package Final|IconGroups]
+Group0=Bathtub
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package Final|Bathtub]
+Icon1=bath.exe
+Title1=Bathtub
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package Final|Package]
+PackageFolder=C:\0Jobs\Bathtub\Setup
+ProjectFolder=C:\0Jobs\Bathtub
+ServerSideCab=
+File1=C:\0Jobs\Bathtub\Setup\setup.exe
+File2=C:\0Jobs\Bathtub\Setup\Setup.Lst
+File3=C:\0Jobs\Bathtub\Setup\bath.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,54 @@
+[Version]
+Version=1.0.0.0
+
+[bath.exe <0009>]
+Dest=$(AppPath)
+Date=1/1/2003
+Time=19:04
+Version=1.0.0.0
+CABFilename=bath.CAB
+CABINFFile=bath.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=hhctrl.ocx
+Uses8=EXCEL.EXE
+Uses9=MSSTDFMT.DLL
+Uses10=MSDBRPTR.DLL
+Uses11=plugin.ocx
+Uses12=FM20.DLL
+Uses13=COMDLG32.OCX
+Uses14=COMCT332.OCX
+Uses15=MSCOMCTL.OCX
+Uses16=TABCTL32.OCX
+Uses17=MSCOMCT2.OCX
+Uses18=bathtub.chm
+Uses19=default.btb
+Uses20=bath.xla
+Uses21=Beaver.btb
+Uses22=StAlbans.btb
+Uses23=Memphremagog.btb
+Uses24=Keystone.btb
+Uses25=Champlain.btb
+Uses26=CONVERT.EXE
+
+[EXCEL.EXE <0009>]
+Dest=$(AppPath)
+Date=9/27/2002
+Time=19:47
+Version=10.0.4524.0
+
+[plugin.ocx <0009>]
+Dest=$(WinSysPath)
+Date=8/18/2001
+Time=07:00
+Version=6.0.2600.0
+
+[FM20.DLL <0009>]
+Dest=$(WinSysPath)
+Date=10/17/1999
+Time=18:01
+Version=2.1.7017.1
